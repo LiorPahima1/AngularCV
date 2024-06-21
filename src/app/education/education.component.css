@@ -1,0 +1,11 @@
+.education {
+    margin-bottom: 20px;
+  }
+  
+  .education p {
+    margin: 5px 0;
+  }
+  
+  .education .institution {
+    font-weight: bold;
+  }
